@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>CSharpBenchmark</RootNamespace>
+    <AssemblyName>CSharpBenchmark</AssemblyName>
+    <Nullable>disable</Nullable>
+    <!-- 释放模式下进行优化，便于公平对比性能 -->
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+</Project>

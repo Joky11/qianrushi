@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Java / C# build outputs
+*.class
+*.exe
+
+# Native build outputs
+*.so
+*.dylib
+*.dll
+*.pyd
+*.nbc
+*.nbi
+1.2_optimized/build/
+
+# Local reference clone from homework 1.2
+PythonSpeedTest/
